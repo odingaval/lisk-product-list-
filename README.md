@@ -1,6 +1,19 @@
-# Frontend Mentor - Product list with cart solution
+# 🍰 Desserts - Product List with Cart
 
-This is a solution to the [Product list with cart challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-list-with-cart-5MmqLVAp_d). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+A responsive e-commerce product listing page with a functional shopping cart, built as a solution to the [Product list with cart challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-list-with-cart-5MmqLVAp_d).
+
+## 🚀 Live Demo
+
+**[View Live Site](https://your-live-site-url.com)** *(Update this URL when you deploy)*
+
+## 📱 Features
+
+- 🛒 **Interactive Shopping Cart** - Add, remove, and adjust quantities
+- 💾 **Persistent Storage** - Cart data saved in browser's local storage
+- 📱 **Fully Responsive** - Optimized for mobile, tablet, and desktop
+- ♿ **Accessible Design** - Keyboard navigation and screen reader support
+- 🎨 **Modern UI** - Smooth animations and hover effects
+- 🌱 **Carbon Neutral** - Eco-friendly branding elements 
 
 ## Table of contents
 
@@ -36,28 +49,19 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/product-list-with-cart-responsive-design)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
-- Challenge URL: [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/product-list-with-cart-5MmqLVAp_d)
+- **Live Demo**: [View Live Site](https://your-live-site-url.com) *(Update when deployed)*
+- **Frontend Mentor**: [Challenge Details](https://www.frontendmentor.io/challenges/product-list-with-cart-5MmqLVAp_d)
+- **Repository**: [GitHub](https://github.com/yourusername/lisk-product-list-) *(Update with your repo)*
 
 ## My process
 
 ### Built with
 
-- **HTML5**: Semantic markup with proper accessibility attributes
-- **CSS3**: 
-  - Custom properties (CSS variables) for consistent theming
-  - Flexbox and CSS Grid for responsive layouts
-  - Mobile-first responsive design approach
-  - Smooth animations and transitions
-- **JavaScript (ES6+)**: 
-  - Class-based architecture for maintainable code
-  - Local Storage API for cart persistence
-  - Event delegation and proper error handling
-- **Responsive Design**: 
-  - Responsive images (mobile, tablet, desktop)
-  - Breakpoint-based layout adjustments
-  - Touch-friendly interface elements
+- **HTML5** - Semantic markup with proper accessibility attributes
+- **CSS3** - Custom properties, Flexbox, CSS Grid, responsive design
+- **JavaScript (ES6+)** - Class-based architecture, Local Storage API
+- **Responsive Images** - Optimized for mobile, tablet, and desktop
+- **Local Storage** - Cart persistence across browser sessions
 
 ### What I learned
 
@@ -117,6 +121,16 @@ class Cart {
 }
 ```
 
+```javascript
+// Responsive image handling
+getResponsiveImage(images) {
+  const width = window.innerWidth;
+  if (width >= 1440) return images.desktop;
+  if (width >= 768) return images.tablet;
+  return images.mobile;
+}
+```
+
 ### Continued development
 
 Areas I'd like to continue improving:
@@ -153,9 +167,13 @@ Areas I'd like to continue improving:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - [@yourusername](https://github.com/yourusername)
-- LinkedIn - [Your Name](https://linkedin.com/in/yourusername)
+👋 **Your Name**
+
+- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Frontend Mentor**: [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- **LinkedIn**: [Your Name](https://linkedin.com/in/yourusername)
+
+*Feel free to connect with me!*
 
 ---
 
@@ -164,12 +182,15 @@ Areas I'd like to continue improving:
 This project was built as part of the Frontend Mentor challenges to improve my frontend development skills. The design and requirements were provided by Frontend Mentor, and the implementation was completed independently.
 
 ### 🎯 Key Achievements:
-- ✅ Fully responsive design that works on all devices
-- ✅ Complete cart functionality with Local Storage persistence
-- ✅ Accessible and keyboard-navigable interface
-- ✅ Modern CSS with custom properties and Grid/Flexbox
-- ✅ Clean, maintainable JavaScript with class-based architecture
-- ✅ Smooth animations and hover effects
-- ✅ Error handling and loading states
+- ✅ **Fully Responsive** - Works perfectly on mobile, tablet, and desktop
+- ✅ **Functional Cart** - Add, remove, and adjust quantities with persistence
+- ✅ **Accessible Design** - Keyboard navigation and screen reader support
+- ✅ **Modern CSS** - Custom properties, Grid, Flexbox, and smooth animations
+- ✅ **Clean JavaScript** - Class-based architecture with proper error handling
+- ✅ **Performance Optimized** - Responsive images and efficient event handling
 
 The project demonstrates proficiency in modern frontend development practices and creates an engaging user experience for an e-commerce product listing page.
+
+---
+
+**⭐ If you found this project helpful, please give it a star!**
