@@ -4,7 +4,7 @@ A responsive e-commerce product listing page with a functional shopping cart, bu
 
 ## 🚀 Live Demo
 
-**[View Live Site](https://your-live-site-url.com)** *(Update this URL when you deploy)*
+**[View Live Site](https://your-vercel-url.vercel.app)** *(Replace with your actual Vercel URL)*
 
 ## 📱 Features
 
@@ -49,7 +49,7 @@ Users should be able to:
 
 ### Links
 
-- **Live Demo**: [View Live Site](https://your-live-site-url.com) *(Update when deployed)*
+- **Live Demo**: [View Live Site](https://your-vercel-url.vercel.app) *(Replace with your actual Vercel URL)*
 - **Frontend Mentor**: [Challenge Details](https://www.frontendmentor.io/challenges/product-list-with-cart-5MmqLVAp_d)
 - **Repository**: [GitHub](https://github.com/yourusername/lisk-product-list-) *(Update with your repo)*
 
