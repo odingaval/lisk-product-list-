@@ -51,7 +51,7 @@ Users should be able to:
 
 - **Live Demo**: [View Live Site](https://lisk-product-list.vercel.app) 
 - **Frontend Mentor**: [Challenge Details](https://www.frontendmentor.io/challenges/product-list-with-cart-5MmqLVAp_d)
-- **Repository**: [GitHub]() *(Update with your repo)*
+- **Repository**: [GitHub](https://github.com/odingaval/lisk-product-list-.git) 
 
 ## My process
 
@@ -169,9 +169,9 @@ Areas I'd like to continue improving:
 
 👋 **Your Name**
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Frontend Mentor**: [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourusername)
+- **GitHub**: [@yourusername](https://github.com/odingaval)
+- **Frontend Mentor**: [@yourusername](https://www.frontendmentor.io/profile/odngaval)
+- **LinkedIn**: [Your Name](https://linkedin.com/in/odingavalery)
 
 *Feel free to connect with me!*
 
